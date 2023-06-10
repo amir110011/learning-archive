@@ -1,0 +1,11 @@
+admin
+administrator
+admins
+userinfo
+user
+users
+manage
+manager
+post
+upload
+uploader
